@@ -1,6 +1,6 @@
 # SupplyMe
 
-We realized that in the COVID-19 pandemic, there was an extreme lack of resources (gloves, masks, etc.). To combat this shortage, we created a web app that would allow health care workers to see where covid cases are most prevalent.
+We realized that in the COVID-19 pandemic, there was an extreme lack of resources (gloves, masks, etc.) being circulated around due to the lack of awareness for people who need them. To combat this shortage, we created a web app that would allow health care workers to request for supplies and connect them with suppliers who are willing to donate.
 
 
 <div align="center">
