@@ -4,7 +4,7 @@ We realized that in this pandemic there was an extreme lack of resources (gloves
 
 
 <div align="center">
-  <b>Click to watch demo video below</b>
+  <b>Click to watch demo video below</b><br>
   <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/_i8D7RSrH0w/0.jpg" alt="SupplyMe PBE"></a>
 </div>
 
